@@ -6,7 +6,7 @@
 
 #### Tips ###
 
-Creating a react-app: https://reactjs.org/docs/create-a-new-react-app.html
+Creating a react-app using Vite: https://reactjs.org/docs/create-a-new-react-app.html & https://vite.dev
 
 Use 'react-router' as a navigation tool: https://reactrouter.com
 
